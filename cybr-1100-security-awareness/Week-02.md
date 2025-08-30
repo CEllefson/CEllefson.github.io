@@ -1,10 +1,13 @@
 # Week 2 Personal Cybersecurity
 
 ## Summary
-What you learned about personal cyber risks and defenses.
+I learned that there are many approaches to personal cybersecurity and risk minimization that we as people can do. Learning to recognize threats of phishing and human engineered attacks will increase your personal security significantly, with use of layer-defense on your home network and robust password security to round out your defense. We learned about the methods threat actors use to crack passwords, using brute force, dictionary attacks, or rainbow charts of prebroken hashes. With strong passwords, it is always recommended to have multi-factor authentication (MFA). This is one of the best ways to ensure that your accounts are not compromised or others are attempting to access them. There is also a good case for Password Managers such as Bitwarden and others like this, providing the ability to store highly complex passwords and not need to remember them for login. In theory this creates highly secure passwords that can’t be cracked, but in my own personal feeling on the topic, I do not like having anyone but myself knowing or storing my password on a server. There is too much risk in my opinion of having all my passwords to all my logins in one location, where someone who could get in could access everything if needed. Certainly they have plenty of measures in place to stop this and they’re reputable, but it isn’t something I am comfortable with. 
+
+Humans will always be the weakest link in a good cyber defense plan, so being able to recognize the threats of phishing, smishing, human engineering, and other deceitful attempts to gain your information will save you in the long run. Additionally, having a robust password that is reset semi-regularly with MFA can protect your accounts from people attempting to get in. If you follow these steps, and don’t share your passwords or MFA, you should be much more secure than the typical individual and be much less of a target. 
 
 ## Artifacts
 [CYBR 1100 Hands-on Project 2-1 EllefsonChristian (1).pdf](https://github.com/user-attachments/files/22055486/CYBR.1100.Hands-on.Project.2-1.EllefsonChristian.1.pdf)
+[CYBR 1100 Case Project 2-2 EllefsonChristian.pdf](https://github.com/user-attachments/files/22055620/CYBR.1100.Case.Project.2-2.EllefsonChristian.pdf)
 
 
 ## Reflection
