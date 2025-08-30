@@ -7,6 +7,7 @@ Humans will always be the weakest link in a good cyber defense plan, so being ab
 
 ## Artifacts
 [CYBR 1100 Hands-on Project 2-1 EllefsonChristian (1).pdf](https://github.com/user-attachments/files/22055486/CYBR.1100.Hands-on.Project.2-1.EllefsonChristian.1.pdf)
+
 [CYBR 1100 Case Project 2-2 EllefsonChristian.pdf](https://github.com/user-attachments/files/22055620/CYBR.1100.Case.Project.2-2.EllefsonChristian.pdf)
 
 
