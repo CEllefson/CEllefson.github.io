@@ -52,9 +52,29 @@
 &nbsp;
 
 
-## Storage Device Differences
+# Storage Device Differences
+**HDD** 
+- HDDs or Hard Drive Disks are a mechanical form of non-volatile data storage. They consist of a data disk that is spun at several thousand RPM and is read by an actuator arm with a head that is used for reading and writing data. These HDDs are often times cheaper than SSDs so bulk storage is a great option for them, but data retrieval is much slower than SSDs  and HDDs having a spinning disk inside of them are more prone to damage when an impact occurs. 
+<img width="2638" height="1796" alt="image" src="https://github.com/user-attachments/assets/562d3a48-597a-4425-8903-d0db20f75e0f" />
+
+
+**SSD** 
+- SSDs are solid state drives, and are an entirely digital, non-volatile form of data storage. SSDs are often considered substantially quicker and more resilient to impact than Hard Drives or Hard Drive Hybrids. The disadvantage is they are often much more expensive than HDDs but the price in recent years has gone down substantially. Additionally SSDs have a smaller form factor than HDDs which can be beneficial for desktops, laptops, and even servers. Typically in 2.5” drives but more frequently, M.2 SSDs are being used for OS boot drives and are used for important applications that require fast booting. SSDs can also be installed as adapter cards.  
+<img width="1280" height="1280" alt="image" src="https://github.com/user-attachments/assets/7e010af5-e959-40de-bd16-9f8a59b8c8e4" />
+
+
+**Optical Drive** 
+- Mostly fazed out in modern hardware, but still sometimes used in legacy hardware. Used to read CDs and DVDs with some options to rewrite or write new information onto CDs and DVDs if compatible.
+<img width="500" height="344" alt="image" src="https://github.com/user-attachments/assets/5bdd9e0c-7e0a-4c12-be29-9ee462c0c9f8" />
+
+
+**Tape Drive** 
+- A much older version of data storage is tape drives, these were magnetic tapes similar to the way HDDs used magnetic read/write heads, but could do only a fraction of the data storage of HDDs. Useful for backing up computers but were quickly fazed out.
+<img width="1180" height="664" alt="image" src="https://github.com/user-attachments/assets/20cb355f-c760-4eb0-8f3a-47d8faeddcea" />
+
 
 
 ## Motherboard Diagram
 
+<img width="1750" height="864" alt="Labeled Motherboard" src="https://github.com/user-attachments/assets/e20493f8-fd40-4d27-a43e-8c64b4e821a9" />
 
