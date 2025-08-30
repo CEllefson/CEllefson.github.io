@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Christian Ellefson",
+    "email": "cellefson@hocking.edu",
     "phone": "",
     "website": "https://academicpages.github.io",
     "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Athens, OH",
       "countryCode": "US",
       "region": ""
     },
@@ -25,16 +25,16 @@
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "CEllefson",
+        "url": "https://github.com/CEllefson/"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Hocking College",
+      "area": "Cybersecurity and Network Systems",
       "studyType": "",
       "startDate": "",
       "endDate": "2018",
