@@ -23,11 +23,16 @@ Trojan Horse - Malware that makes its true intentions to appear legitimate. Troj
 
 Worms - malware that does not require user input to replicate, and can infect host networks and other end devices. Ex. Code Red was a worm in 2001 that was able to infect over 300,000 servers in just 19 hours. 
 
-How do I know my system is infected?
-Increased CPU usage at idle
-Computer freezing and crashing often
-A decrease in web browser speed
-Many more
+_How do I know my system is infected?_
+
+ -Increased CPU usage at idle
+ 
+ -Computer freezing and crashing often
+
+ -A decrease in web browser speed
+ 
+ -Many more
+
 
 **Methods of Infiltration**
 Social Engineering - Plainly it is the manipulation of people to perform acts or divulge information, think phishing attacks as an example
