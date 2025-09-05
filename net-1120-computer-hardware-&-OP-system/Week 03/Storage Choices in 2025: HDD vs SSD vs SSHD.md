@@ -1,1 +1,11 @@
+# Determining your storage device
+Everyone has a different use case when it comes to determining the storage they need. Some people are in an office setting where fast is good but not wildly necessary for loading documents, and others may be researchers that require robust computing systems with fast Read/Write to pair with it. I’ll be going over some of these scenarios for each of the following types.
+
+# SSD
+SSD’s or Solid State Drives are the undisputed key in storage at the moment, as of 2025. They are a purely digital form of storage that allows for the fastest read/write speeds of all 3 types of storage, making them excellent for gaming or even research purposes as before mentioned. The caveat is that it is one of the more expensive forms of storage, but this price has certainly come down in recent years. 
+# HDD
+HDD or Hard Drive Disks are excellent forms of physical storage, being able to store large quantities of data for relatively cheap. These disks are easy to find anywhere on the internet for sale and are fast enough for most applications. These still have a good application in everyday life, and are excellent for work places or for server racks that require storage space for several hundred GBs. 
+
+# SSHD
+Solid State Hybrid Drives are a compromise between the SSD and HDD, integrating a physical HDD disk with fast NAND memory. This method makes a faster version of the HDD while being able to have its storage capacity. The problem is these drives are rare to find, and while they’re generally only a little more expensive than HDDs, they are usually not worth it for most people. For newer computers, it is generally recommended to have an SSD for your storage needs, but if you want to save money, a small SSD boot drive/OS with a HDD as your primary storage would be more worthwhile to most people. Finding an SSHD for sale may be hard enough to make most people not interested in its not so significant benefits. With all that being said, SSHDs have their place in the computer industry, and increasingly it seems they have found a niche in lower-end laptops to provide faster read/write speeds and boot times. Most people’s builds for computers for either professional or personal use and even servers often change based on price, so if cheaper SSHDs come out with faster cache speeds, they could certainly make a comeback.
 
