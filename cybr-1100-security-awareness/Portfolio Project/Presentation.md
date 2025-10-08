@@ -1,3 +1,7 @@
+# Awareness Presentation Slides
+[Cyber 1100 Awareness Presentation.pdf](https://github.com/user-attachments/files/22758384/Cyber.1100.Awareness.Presentation.pdf)
+
+
 # Project with Clutch Kickers Automotive Repair
 
 For this project I had the great opportunity to help a business I’ve worked with before called Clutch Kickers Automotive Repair owned by Frank Locurto. As a car and truck mechanic, he doesn’t have a lot of time to set up his network at his shop but knows how much this could help his business with storing important information needed for more complex repairs. This is a brief and mostly simplified description of what we went through and did, but I will provide my checklist which has more specifics below for those interested.
@@ -58,8 +62,6 @@ I actually had a lot of fun doing this project. It felt like a good opportunity 
 # Awareness Poster
 <img width="960" height="540" alt="Security Awareness Mini-Poster" src="https://github.com/user-attachments/assets/49aca501-e031-4c20-9b81-a1caa96ea693" />
 
-# Awareness Presentation Slides
-[Cyber 1100 Awareness Presentation.pdf](https://github.com/user-attachments/files/22758384/Cyber.1100.Awareness.Presentation.pdf)
 
 [Awareness Guide.md](https://github.com/user-attachments/files/22758470/Awareness.Guide.md)
 # Security Awareness:
