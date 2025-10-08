@@ -20,7 +20,7 @@ Frank is pretty tech savvy but of course his focus is more on the car repair and
 
 
 # CKAR Checklist
-Network Set-Up:
+**Network Set-Up:**
 
 - Set-up Endpoint with Windows 11 and server with Debian Linux (installed with Samba for Windows friendly file-sharing) for information and technical documentation storage, recommend KVM for seamless transition between desktop to server management for users.
 - Given the router has one LAN ethernet port (TP-Link Deco X20), I recommend a 4-5 port switch for ethernet connection.
@@ -39,6 +39,15 @@ Network Set-Up:
   - 192.168.68.1 (usually for TP link Deco) although 192.168.0.1, 192.168.1.0 or 192.168.1.1 are typical default gateways
 - Not for this appointment, but recommendation for VPN at client router through TP-Link VPN Settings for heightened security and IP obfuscation. 
 
+**Pen Testing:**
+- For this network security evaluation, we will be conducting light port-scanning utilizing Nmap. This will help us ensure that vulnerable ports are closed.
+- For the nmap scanning we will perform a couple different scans to recognize potential vulnerabilities and gather information about the network.
+  -  nmap 192.168.68.1 -p- will scan all ports on the router to verify if they are open but can be refined down with specifications such as nmap 192.168.68.1 -p 21-445
+     - This is contingent on default gateway IP address, will verify and adjust
+  -  nmap 192.168.68.1/24 -sL will list targets on a the network
+  -  nmap 192.168.68.1/24 -PR will be used for ARP discovery on the local network.
+-   We will also assess the physical security of the premises as physical and cyber security often go hand-in-hand. 
+       
 
 
 # Awareness Poster
