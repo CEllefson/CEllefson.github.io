@@ -54,3 +54,4 @@
  
 # Reflection
 
+I actually had a lot of fun doing this project. It felt like a good opportunity to use all the information I had learned over the last year and apply it to a business that will use it several times a week. I got to learn more about port scanning programs along with how to set up a NAS. It was fun and gratifying to know I helped a small business become more functional and safe.
